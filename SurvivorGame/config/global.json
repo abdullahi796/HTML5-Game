@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "levo"
+        }, 
+        "levo": {
+            "applicationId": "EuJra7YBYW7JXV2de66L6qX5bIci8BilXhApzh5H", 
+            "masterKey": "lVuwUWuo8OMR7PNJOINJtLHcTWX72Ak3DMvVXZio"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.4.2"
+    }
+}
